@@ -1,0 +1,393 @@
+body{
+  font-size: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.nodejs{
+  width : 3em;
+}
+
+span {
+  font-size: 18px; }
+
+.html{
+  width: 3.5em;
+}
+
+.header{
+  margin-bottom: 2em;
+} 
+
+.linkedin{
+  margin-left: 2em;
+  color: black;
+  margin-top: 1em;
+}
+
+.git2{
+  margin-left: 1.3em;
+  color : black;
+}
+
+.maison{
+  margin-left: 0.5em;
+}
+
+.compétences{
+  margin-top: 3em;
+  margin-bottom: 1em;
+}
+
+
+.mail{
+  margin-left: 1em;
+  color: black;
+}
+
+.projets{
+  margin-top: 2em;
+}
+
+
+.ui.segment{
+  background-color: black;
+}
+
+header{
+  margin-right: 17em;
+  margin-bottom: 3em;
+}
+
+#moi{
+  margin-right: 11em;
+}
+
+.kopane{
+  margin-left: 1em;
+  color : black;
+}
+
+
+.projet1{
+  margin-top: 1em;
+  color : black;
+}
+
+.kopanetext{
+  margin-top: 0.5em;
+  font-size: 15px;
+}
+
+.projets3{
+  margin-left: 7em;
+  margin-top: 1em;
+}
+
+.coding{
+  margin-right: 0.5em;
+}
+
+.skill{
+  margin-right: 0.6em;
+}
+
+.phone{
+  margin-left: 1.3em;
+  margin-top: 1em;
+}
+
+.nom{
+  margin-left: 13.3em;
+  color: black;
+}
+
+.adresse{
+  margin-left: 0.6em;
+}
+
+.langage1{
+  margin-bottom: 1.5em;
+}
+
+.adressemail{
+  margin-left: 8.2em;
+  color: black;
+}
+
+
+.num{
+  margin-left: 15.5em;
+}
+
+.pseudo{
+  margin-left: 15.1em;
+  color : black;
+}
+
+
+.css{
+  width : 4em;
+}
+
+.js{
+  width : 3.5em;
+}
+
+
+.php{
+  width : 3em;
+}
+
+.langage2{
+  margin-left: 0.8em;
+}
+
+.mysql{
+  width: 3em;
+}
+
+
+.entête{
+  margin-top: 2em;
+}
+
+.ui.items {
+  text-align: center;
+  display: inline-flex;
+
+}
+
+.image {
+  width: 13%;
+  height: 10.5em;
+  margin-top: 0.5em;
+}
+
+
+.infos {
+width: 30%;
+margin-top : 5em;
+margin-left: 12.5em;
+text-align: center;
+  
+}
+.reseaux {
+  width: 30%;
+  margin-top: 0.5em;
+  
+}  
+.container1{
+  display : inline-flex;
+  justify-content: space-between;
+}
+
+@media screen and (max-width:1024px) { 
+  .reseaux {
+    width: 44%;
+    margin-top: 1em;
+    
+  } 
+  .infos {
+    width: 40%;
+    margin-top : 4em;
+    margin-left: 13em;
+    text-align: center;
+      
+    }
+    .image {
+      width: 13%;
+      height: 10.5em;
+      margin-top: 0.5em;
+    }
+ }
+
+
+
+
+.ui.raised.card{
+  display: inline-flex;
+  width: 105em;
+  height : 15.5em;
+}
+
+.ui.segment.blue{
+  
+}
+
+.laravel{
+  width : 4em;
+}
+
+.semantic{
+  width : 3em;
+}
+
+.bootstrap{
+  width: 4em;
+}
+
+.techno1{
+  margin-left: 3.7em;
+  margin-bottom: 1.6em;
+}
+
+.materialize{
+  width: 4em;
+  margin-left: 1.5em;
+}
+
+.techno2{
+  margin-left: 3.7em;
+}
+
+.techno{
+  margin-left: 10.5em;
+}
+
+.langage{
+  margin-left: 7.5em;
+}
+
+.outils1{
+  margin-left: 12em;
+}
+
+.express{
+  width: 3.5em;
+}
+
+.description{
+  margin-left: 4em;
+}
+
+.react{
+  width: 3em;
+}
+
+.git{
+  width : 3em;
+  margin-bottom: 2.6em;
+}
+
+.github{
+  width : 5em;
+  margin-bottom: 2.6em;
+
+}
+
+.kanban{
+  width : 3em;
+  margin-bottom: 2.6em;
+}
+
+.outils{
+  margin-left: 3.7em;
+  margin-top: 5.7em;
+}
+
+#express {
+  width: 5em;
+  vertical-align: middle;
+  padding-left: 1em;
+  padding-right: 0.5em; }
+
+#bootstrap {
+  width: 5em;
+  vertical-align: middle;
+  padding-left: 1em;
+  padding-right: 0.5em; }
+
+#materialize {
+  width: 5em;
+  vertical-align: middle;
+  padding-left: 1em;
+  padding-right: 0.5em; }
+
+#github {
+  width: 5em;
+  vertical-align: middle;
+  padding-left: 1em;
+  padding-right: 0.5em; }
+
+#kanban {
+  width: 5em;
+  vertical-align: middle;
+  padding-left: 1em;
+  padding-right: 0.5em; }
+
+
+
+
+  .ui.card.blue{
+    display: inline-flex;
+    width: 105em;
+    height : 25em;
+  }
+
+  .experiences{
+    margin-top: 2em;
+  }
+
+  .xp{
+    margin-right: 0.5em;
+  }
+
+  .experiences1{
+    margin-top: 8em;
+    margin-left: 7em;
+  }
+
+  .experiences2{
+    margin-left: 7em;
+  }
+
+  .universiti{
+    margin-top: 2em;
+  }
+
+  .formation{
+    margin-left: 1em;
+
+  }
+
+  .formation3{
+    margin-left : 3em;
+  }
+
+  .formations1{
+
+    margin-top: 3em;
+    text-align: center;
+  }
+
+  .school{
+    margin-left: 10em;
+  }
+
+  .formations2{
+    margin-top: 3em;
+    margin-left: 7em;
+    text-align: center;
+  }
+
+  .formation3{
+    margin-right: 8em;
+  }
+
+  .formation4{
+    margin-left: 15em;
+  }
+  .dateform{
+    margin-left: 1.3em;
+  }
+
+  .university{
+    margin-right: 0.5em;
+  }
+
+  .technolangage{
+    margin-right: 2em;
+  }
+
+
